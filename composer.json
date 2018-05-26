@@ -1,0 +1,17 @@
+{
+    "name": "php_math_application",
+    "description": "",
+    "type": "project",
+    "require": {
+        "silex/silex": "~2.0",
+        "twig/twig": "^2.4",
+        "php": "^7.1.11"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "EgorAlmikeev",
+            "email": "ealmikeew@gmail.com"
+        }
+    ]
+}
